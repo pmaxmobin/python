@@ -1,0 +1,9 @@
+from datetime import timedelta datetime
+
+start=datetime.now
+
+end=start+timedalta(days=30)
+
+x=end-start
+
+x.days
